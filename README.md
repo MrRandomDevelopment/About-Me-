@@ -2,7 +2,7 @@
 
 ![Profile Banner]([https://mrrandom.dev/banner.jpg](https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12495821/6652da9efe4a425284f73397201e61d4/eyJ3IjoxNjAwLCJ3ZSI6MX0%3D/3.png?token-time=1722729600&token-hash=vwq64GghrA1_w-zUYQxhkQ-gkW3hEv-6kJTUCNOwguQ%3D))
 
-## Hi, I'm Mr. Random!
+## Hi, I'm MrRandom!
 
 I'm a passionate developer and tech enthusiast with a focus on creating innovative solutions and sharing knowledge through various projects and platforms. Welcome to my GitHub profile where I showcase my latest work, collaborations, and contributions to the tech community.
 
